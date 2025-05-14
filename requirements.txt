@@ -24,7 +24,8 @@ os
 #Módulo estándar de Python para manejar datos en formato JSON (no requiere instalación).
 json
 
-
+#Libreria para utilizar la api de Kaggle
+kaggle
 
 
 #Según pip freeze > requirements.txt
