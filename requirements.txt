@@ -27,6 +27,8 @@ json
 #Libreria para utilizar la api de Kaggle
 kaggle
 
+#Para utilizar .env
+python-dotenv
 
 #Según pip freeze > requirements.txt
 AppKit==0.2.8
