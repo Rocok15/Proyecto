@@ -21,3 +21,8 @@ import kaggle
 
 # Autenticación
 kaggle.api.authenticate()
+
+
+
+#Descargar el csv
+kaggle.api.dataset_download_files("henriqueyamahata/bank-marketing", path="./data",unzip=True)
